@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to code in python, nodejs, and go
 - 💞️ I’m looking to collaborate on a worm running on a self-hosted VPS.
 - 📫 How to reach me: 
-        Discord: Vincent.#1337
         protonmail: r3dg0d@protonmail.com
        
 NSA hire me please. lol
