@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r3dg0d
 - 👀 I’m interested in AI, machine learning, big data, and conversational virtual assistants.
-- 🌱 I’m currently learning how to code in javascript.
+- 🌱 I’m currently learning how to code in javascript, python, and other basic scripting languages.
 - 💞️ I’m looking to collaborate on a discord bot.
 - 📫 How to reach me: r3dg0d@protonmail.com
 
