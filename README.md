@@ -5,7 +5,6 @@
 - 📫 How to reach me: r3dg0d@pm.me
 - 💬 Contact me via Session Encrypted Messenger. My session ID is: [UNDISCLOSED]
 - 💬 Discord Username and tag: 0byteZ#9999
-- 📞 Phone: +1 (209) 694-9930
 
 <!---
 r3dg0d/r3dg0d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
