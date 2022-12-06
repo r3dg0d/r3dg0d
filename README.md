@@ -25,6 +25,8 @@ Fun facts about me:
 - My parents are wealthy, among the top 1% 💰💵
 - I am highly intelligent, and scored 860 on my SAT's. 🌙💝
 - I'm from the western part of civilization.
+- I own three smartphones, one desktop computer with two monitors 💻🖥️
+- I believe caffeine keeps me up at night... ☕🍵
 
 Projects I have helped develop:
 - hackyou.dev, my personal project
