@@ -15,7 +15,7 @@ Okay dope. 🚬 What about ascii art?
         _   ,_,   _
        / `'=) (='` \
       /.-.-.\ /.-.-.\ 
-jgs          "       dananana BATMAN! 🦇
+D                       dananana BATMAN! 🦇
 
 \\D0P3//
 
