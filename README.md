@@ -22,3 +22,5 @@ D                       dananana BATMAN! 🦇
 Alright, so I assume ur a n3rd. Contact me on twitter @0byteZ.
 
 Let's work on something A-MAZE. (ING)! 😳👉👈
+
+Also, #FuckWindows #Ubuntu22.04lyfe
