@@ -42,3 +42,5 @@ Action == {"Install encrypted ransomware into Capital One, Chase, U.S. Bank, Wel
 PHASE THREE: Begin changing code on electric vehicles, stoplights, powergrids and other SCADA infrastructure to create a firesail.
 
 #HackedTheWorld```
+
+Watch Live Free or die hard and V for vendetta and mr. robot.
