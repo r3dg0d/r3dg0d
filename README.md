@@ -2,8 +2,9 @@
 
 I'm r3dg0d 😡🍒
 
-🎯🎮 Experienced in Game-development, Design, Graphic design, and code/cybersec 🧑‍💻🎨🖌️
+🎯🎮 Experienced in Game-development, Design, Graphic design, and code/cybersecurity, mainly blackhat 🧑‍💻🎨🖌️
 
+🧑‍💻Also a full-stack web-developer, looking for a remote job at whatever company wants to hire me.
 
 Do you know pseudocode bro?
 
@@ -43,4 +44,4 @@ PHASE THREE: Begin changing code on electric vehicles, stoplights, powergrids an
 
 #HackedTheWorld```
 
-Watch Live Free or die hard and V for vendetta and mr. robot.
+Watch Live Free or die hard and V for vendetta and mr. robot. for #HackTheWorld
