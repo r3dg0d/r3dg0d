@@ -111,8 +111,8 @@ Honest Linux OPSEC CLIs — independent repos + umbrella.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=r3dg0d&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff66&icon_color=00ff66&text_color=eaeaea&ring_color=00ff66" alt="r3dg0d GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3dg0d&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff66&text_color=eaeaea" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=r3dg0d&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00ff66&icon_color=00ff66&text_color=eaeaea&ring_color=00ff66" alt="r3dg0d GitHub stats" />
+<img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=r3dg0d&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ff66&text_color=eaeaea" alt="Top languages" />
 
 <br/>
 
