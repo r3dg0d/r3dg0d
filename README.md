@@ -82,6 +82,7 @@ Honest Linux OPSEC CLIs — independent repos + umbrella.
 | [`matrix`](https://github.com/r3dg0d/matrix) | Realtime Matrix-style digital rain for the terminal (Rust) |
 | [`MatrixShot`](https://github.com/r3dg0d/MatrixShot) | Wayland screenshot + screen recording suite |
 | [`vmtools`](https://github.com/r3dg0d/vmtools) | windowsvm / linuxvm / androidvm — NixOS-friendly VM CLIs |
+| [`ai-media-cli`](https://github.com/r3dg0d/ai-media-cli) | Local-first AI media CLI (Qwen text2img/img2img, 3dai, editvideo) |
 | [`KeystrokeNoise`](https://github.com/r3dg0d/KeystrokeNoise) | Multi-keyboard mechanical clicks + mouse sounds (evdev) |
 | [`matrix-code-rain-sddm`](https://github.com/r3dg0d/matrix-code-rain-sddm) | Matrix Katakana SDDM greeter theme |
 
