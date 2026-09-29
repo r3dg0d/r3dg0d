@@ -79,8 +79,10 @@ Honest Linux OPSEC CLIs — independent repos + umbrella.
 | Repo | What it does |
 |------|----------------|
 | [`dotfiles`](https://github.com/r3dg0d/dotfiles) | Audited NixOS workstation — Hyprland, Ambxst, Ghostty |
-| [`KeystrokeNoise`](https://github.com/r3dg0d/KeystrokeNoise) | Multi-keyboard mechanical clicks + mouse sounds (evdev) |
+| [`matrix`](https://github.com/r3dg0d/matrix) | Realtime Matrix-style digital rain for the terminal (Rust) |
 | [`MatrixShot`](https://github.com/r3dg0d/MatrixShot) | Wayland screenshot + screen recording suite |
+| [`vmtools`](https://github.com/r3dg0d/vmtools) | windowsvm / linuxvm / androidvm — NixOS-friendly VM CLIs |
+| [`KeystrokeNoise`](https://github.com/r3dg0d/KeystrokeNoise) | Multi-keyboard mechanical clicks + mouse sounds (evdev) |
 | [`matrix-code-rain-sddm`](https://github.com/r3dg0d/matrix-code-rain-sddm) | Matrix Katakana SDDM greeter theme |
 
 ### Games / other
