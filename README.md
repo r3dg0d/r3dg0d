@@ -78,11 +78,13 @@ Honest Linux OPSEC CLIs — independent repos + umbrella.
 ### Desktop / Linux
 | Repo | What it does |
 |------|----------------|
+| [`Nala-Voice`](https://github.com/r3dg0d/Nala-Voice) | Hyprland companion fork with a local voice assistant (experimental) |
 | [`dotfiles`](https://github.com/r3dg0d/dotfiles) | Audited NixOS workstation — Hyprland, Ambxst, Ghostty |
 | [`matrix`](https://github.com/r3dg0d/matrix) | Realtime Matrix-style digital rain for the terminal (Rust) |
 | [`MatrixShot`](https://github.com/r3dg0d/MatrixShot) | Wayland screenshot + screen recording suite |
 | [`vmtools`](https://github.com/r3dg0d/vmtools) | windowsvm / linuxvm / androidvm — NixOS-friendly VM CLIs |
 | [`ai-media-cli`](https://github.com/r3dg0d/ai-media-cli) | Local-first AI media CLI (Qwen text2img/img2img, 3dai, editvideo) |
+| [`nixpresence`](https://github.com/r3dg0d/nixpresence) | VRChat OSC chatbox and optional Discord presence with modular Linux data sources |
 | [`KeystrokeNoise`](https://github.com/r3dg0d/KeystrokeNoise) | Multi-keyboard mechanical clicks + mouse sounds (evdev) |
 | [`matrix-code-rain-sddm`](https://github.com/r3dg0d/matrix-code-rain-sddm) | Matrix Katakana SDDM greeter theme |
 
