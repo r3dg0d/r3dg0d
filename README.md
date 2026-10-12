@@ -12,11 +12,12 @@
 ### `user@zionsec:~$ whoami`
 
 **24-year-old software engineer from California.**  
-I ship Linux tools, OPSEC CLIs, Wayland desktop experiments, and local AI media workflows — small focused repos, honest docs, Nix when it helps.
+Moving from Linux to Windows 11 to build open-source software for gamers — focused on video games, game development, and software engineering for players.
 
 [![Website](https://img.shields.io/badge/site-r3dg0d.github.io-00ff66?style=for-the-badge&labelColor=0a0a0a)](https://r3dg0d.github.io)
 [![GitHub](https://img.shields.io/badge/github-r3dg0d-00ff66?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=00ff66)](https://github.com/r3dg0d)
-[![NixOS](https://img.shields.io/badge/NixOS-26.11-5277C3?style=for-the-badge&labelColor=0a0a0a&logo=nixos&logoColor=white)](https://nixos.org)
+[![Windows 11](https://img.shields.io/badge/now_on-Windows_11-0078D4?style=for-the-badge&labelColor=0a0a0a&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+[![Focus](https://img.shields.io/badge/focus-open_source_for_gamers-00ff66?style=for-the-badge&labelColor=0a0a0a)](#now-playing)
 
 </div>
 
@@ -24,9 +25,25 @@ I ship Linux tools, OPSEC CLIs, Wayland desktop experiments, and local AI media 
 
 ## About
 
-I'm a software engineer based in California. Most of my public work is practical Linux tooling: privacy/OPSEC CLIs, desktop utilities for Hyprland, and local AI pipelines that stay honest about GPU memory, gated models, and what actually runs on a single workstation.
+I'm a software engineer based in California, and I'm changing direction: I'm **moving away from Linux (NixOS) to Windows 11** and pointing my work at games.
 
-I care about reproducible systems, clear CLI UX (`--help` / `--json` / XDG paths), and shipping things that work — not marketing fluff.
+- 🎮 **Open-source software for gamers** — tools, mods, and utilities built for players first
+- 🕹️ **More video games and game development**
+- 🛠️ **Software engineering for players** — the same small, focused repos and honest docs as before
+
+My earlier public work is practical Linux tooling: privacy/OPSEC CLIs, Hyprland desktop utilities, and local AI pipelines. Those repos stay up and documented below.
+
+---
+
+## Now playing
+
+Gaming projects already on my GitHub:
+
+| Repo | What it does |
+|------|----------------|
+| [`stream-able`](https://github.com/r3dg0d/stream-able) | OBS-like recording/livestream studio inside Minecraft |
+| [`vanillaamericamc`](https://github.com/r3dg0d/vanillaamericamc) | Vanilla America+ MC server, portal, plugins, NixOS deploy |
+| [`nixpresence`](https://github.com/r3dg0d/nixpresence) | VRChat OSC chatbox and optional Discord presence with modular Linux data sources |
 
 ---
 
@@ -34,12 +51,14 @@ I care about reproducible systems, clear CLI UX (`--help` / `--json` / XDG paths
 
 | | |
 |---|---|
-| **Host** | MAINGEAR MG-1 · NixOS 26.11 (Zokor) · Linux 7.2.5 |
+| **Host** | MAINGEAR MG-1 · moving to Windows 11 (previously NixOS 26.11) |
 | **CPU** | Intel Core i9-14900K · 24 cores / 32 threads |
 | **GPU** | NVIDIA GeForce RTX 4090 · 24 GB VRAM |
 | **RAM** | 31 GiB (no swap) |
 | **Storage** | ~1.8 TB NVMe (T-FORCE) + ~1 TB secondary |
-| **Desktop** | Hyprland · Ghostty · PipeWire |
+| **Desktop** | Windows 11 (was Hyprland · Ghostty · PipeWire) |
+
+Last NixOS snapshot, before the switch:
 
 ```bash
 $ neofetch --stdout | head
@@ -55,7 +74,7 @@ Memory: 31GiB
 
 ---
 
-## Featured work
+## Earlier work — Linux / NixOS
 
 ### PRIV / SEC toolkit
 Honest Linux OPSEC CLIs — independent repos + umbrella.
@@ -84,15 +103,12 @@ Honest Linux OPSEC CLIs — independent repos + umbrella.
 | [`MatrixShot`](https://github.com/r3dg0d/MatrixShot) | Wayland screenshot + screen recording suite |
 | [`vmtools`](https://github.com/r3dg0d/vmtools) | windowsvm / linuxvm / androidvm — NixOS-friendly VM CLIs |
 | [`ai-media-cli`](https://github.com/r3dg0d/ai-media-cli) | Local-first AI media CLI (Qwen text2img/img2img, 3dai, editvideo) |
-| [`nixpresence`](https://github.com/r3dg0d/nixpresence) | VRChat OSC chatbox and optional Discord presence with modular Linux data sources |
 | [`KeystrokeNoise`](https://github.com/r3dg0d/KeystrokeNoise) | Multi-keyboard mechanical clicks + mouse sounds (evdev) |
 | [`matrix-code-rain-sddm`](https://github.com/r3dg0d/matrix-code-rain-sddm) | Matrix Katakana SDDM greeter theme |
 
-### Games / other
+### Other
 | Repo | What it does |
 |------|----------------|
-| [`stream-able`](https://github.com/r3dg0d/stream-able) | OBS-like recording/livestream studio inside Minecraft |
-| [`vanillaamericamc`](https://github.com/r3dg0d/vanillaamericamc) | Vanilla America+ MC server, portal, plugins, NixOS deploy |
 | [`r3dg0d.github.io`](https://github.com/r3dg0d/r3dg0d.github.io) | Personal site → [r3dg0d.github.io](https://r3dg0d.github.io) |
 
 ---
@@ -104,10 +120,20 @@ Honest Linux OPSEC CLIs — independent repos + umbrella.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logoColor=white" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/Java_(Minecraft)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java (Minecraft)" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logoColor=black" alt="Hyprland" />
   <img src="https://img.shields.io/badge/Wayland-FF5555?style=for-the-badge&logo=wayland&logoColor=white" alt="Wayland" />
+</p>
+
+<p align="center"><sub>Learning / exploring for game dev:</sub><br/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
 </p>
 
 ---
@@ -131,11 +157,11 @@ Honest Linux OPSEC CLIs — independent repos + umbrella.
 
 ```text
 ┌─────────────────────────────────────────────┐
-│  building in public · california · nixos   │
+│  building for players · california · win11 │
 │  https://r3dg0d.github.io                   │
 └─────────────────────────────────────────────┘
 ```
 
-<sub>Profile README · special repo <code>r3dg0d/r3dg0d</code> · last tuned for zionsec</sub>
+<sub>Profile README · special repo <code>r3dg0d/r3dg0d</code> · now on Windows 11</sub>
 
 </div>
